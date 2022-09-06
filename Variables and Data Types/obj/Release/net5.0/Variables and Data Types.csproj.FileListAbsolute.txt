@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.exe
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.deps.json
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.runtimeconfig.json
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.runtimeconfig.dev.json
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.dll
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\ref\Variables and Data Types.dll
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\bin\Release\net5.0\Variables and Data Types.pdb
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.AssemblyInfo.cs
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.dll
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\ref\Variables and Data Types.dll
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.pdb
+C:\Users\user\source\repos\Variables and Data Types\Variables and Data Types\obj\Release\net5.0\Variables and Data Types.genruntimeconfig.cache
