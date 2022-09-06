@@ -25,3 +25,14 @@ For the place it occupies in memory: "Width / 8 = Memory Size"
 Example: 8 (byte) / 8 = 1
 
 It will occupy 1 byte of computer memory.
+
+Operators
+
+We use operators when we want to make an assignment or state comparison from within the application. Sometimes the block of code to run needs to change depending on the conditions. This can be achieved by using decision structures and operators together.
+
+According to their functions, operators are categorized as follows.
+
+Assignment and Operational Assignment Operators (=, +=, -=, *=, /=)
+Logical Operators (||, &&, !)
+Relational Operators (==,!=, <, >, >=,<=)
+Arithmetic (+, -, *, /, %, ++, --)
