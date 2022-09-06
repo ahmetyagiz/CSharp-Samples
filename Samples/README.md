@@ -33,6 +33,9 @@ We use operators when we want to make an assignment or state comparison from wit
 According to their functions, operators are categorized as follows.
 
 Assignment and Operational Assignment Operators (=, +=, -=, *=, /=)
+
 Logical Operators (||, &&, !)
+
 Relational Operators (==,!=, <, >, >=,<=)
+
 Arithmetic (+, -, *, /, %, ++, --)
