@@ -1,6 +1,6 @@
 # CSharp-Samples
 
-Variables
+## Variables
 
 What is a variable?
 Variables are our data holders that we use when developing applications.
@@ -26,7 +26,7 @@ Example: 8 (byte) / 8 = 1
 
 It will occupy 1 byte of computer memory.
 
-Operators
+## Operators
 
 We use operators when we want to make an assignment or state comparison from within the application. Sometimes the block of code to run needs to change depending on the conditions. This can be achieved by using decision structures and operators together.
 
