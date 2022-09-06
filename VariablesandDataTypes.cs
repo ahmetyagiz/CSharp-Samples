@@ -58,8 +58,8 @@ class VariablesandDataTypes
         //variable conversions
         string str20 = "20";
         int int20 = 20;
-        string yeniDeger = str20 + int20.ToString();
-        Console.WriteLine(yeniDeger); //output 2020
+        string newValues = str20 + int20.ToString();
+        Console.WriteLine(newValues); //output 2020
 
         int int21 = int20 + Convert.ToInt32(str20);
         Console.WriteLine(int21); //output 40
