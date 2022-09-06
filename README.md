@@ -1,6 +1,7 @@
 # CSharp-Samples
 
 Variables
+
 What is a variable?
 Variables are our data holders that we use when developing applications.
 
