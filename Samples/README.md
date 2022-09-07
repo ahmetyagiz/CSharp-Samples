@@ -39,3 +39,26 @@ Logical Operators (||, &&, !)
 Relational Operators (==,!=, <, >, >=,<=)
 
 Arithmetic (+, -, *, /, %, ++, --)
+
+## Type Conversions
+When we define a variable, we establish a field from memory depending on the type of that variable. Therefore, assigning a different data type value to this variable that we have defined may cause confusion in the memory.
+
+Most of the time, we may have to work with different data types while writing applications. To get things right in memory, we need to do a type conversion in such cases.
+
+Type conversions can be done in 2 ways:
+
+Implicit Conversion
+Explicit Conversion
+Implicit Conversion
+It is the assignment of a variable to a variable with a higher capacity than itself. Since the data type of the target variable will have enough space in memory, there will be no data loss in this conversion. So this conversion can be done by itself.
+
+Sample:
+
+float a; int b = 25; a = b;
+Sample:
+
+short x = 10; int y; y = x;
+The example above works fine. Because float can store larger numbers than integer and integer can store larger numbers than short data type.
+
+Explicit Conversion
+In this method, the developer must be doing the conversions. There are different methods for conversion.
