@@ -47,8 +47,9 @@ Most of the time, we may have to work with different data types while writing ap
 
 Type conversions can be done in 2 ways:
 
-Implicit Conversion
-Explicit Conversion
+### Implicit Conversion
+### Explicit Conversion
+
 Implicit Conversion
 It is the assignment of a variable to a variable with a higher capacity than itself. Since the data type of the target variable will have enough space in memory, there will be no data loss in this conversion. So this conversion can be done by itself.
 
