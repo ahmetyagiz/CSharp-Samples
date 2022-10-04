@@ -50,7 +50,7 @@ Type conversions can be done in 2 ways:
 ### 1-Implicit Conversion
 ### 2-Explicit Conversion
 
-Implicit Conversion
+### Implicit Conversion
 It is the assignment of a variable to a variable with a higher capacity than itself. Since the data type of the target variable will have enough space in memory, there will be no data loss in this conversion. So this conversion can be done by itself.
 
 Sample:
@@ -61,5 +61,5 @@ Sample:
 short x = 10; int y; y = x;
 The example above works fine. Because float can store larger numbers than integer and integer can store larger numbers than short data type.
 
-Explicit Conversion
+### Explicit Conversion
 In this method, the developer must be doing the conversions. There are different methods for conversion.
