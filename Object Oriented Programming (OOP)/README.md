@@ -2,6 +2,8 @@
 
 # Nesne Yönelimli Programlama Nedir ?
 
+![1_sHPfbrrsIALOg71lOXYnRg](https://user-images.githubusercontent.com/78081616/193840260-4fe90c78-b7d7-47ca-935a-b5cd4d3261bb.png)
+
 Nesne Yönelimli Programlama (Object Oriented Programming), sınıflar ve nesneler kavramına dayanan bir programlama yaklaşımıdır. Bu yaklaşımın amacı, ihtiyaç duyulan programı daha küçük parçalara bölerek, yönetilebilir ve yeniden kullanılabilir hale getirmektir. Her küçük parçanın kendine ait özelliği, verileri ve diğer küçük parçalarla nasıl iletişim kuracağı bilgileri bulunur.
 
 ## Encapsulation (Kapsülleme)
