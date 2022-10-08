@@ -6,11 +6,25 @@ namespace ClassSample
     {
         static void Main(string[] args)
         {
+            //syntax
+            //class sınıfı
+            //access modifiers [veri tipi] ozellikAdi;
+            //access modifiers [geri donus tipi] metotAdi ([parametre listesi])
+            //{
+            //metot komutlari
+            //}
+
+            // Access modifiers
+            //1. Public : Her yerden erişilebilir.
+            //2. Private : Sadece tanımlandığı sınıf içerisinden erişilebilir.
+            //3. Internal : Sadece bulunduğu proje içerisinden erişilebilir
+            //4. Protected : Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
+
             Employee employee_1 = new Employee();
             employee_1.Name = "Ayşe";
             employee_1.Surname = "Kara";
             employee_1.Number = 23425634;
-            employee_1.Department = "Human Resources"; 
+            employee_1.Department = "Human Resources";
             employee_1.EmployeeInformation();
 
             Console.WriteLine("**********");
