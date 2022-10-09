@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.exe
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.deps.json
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.runtimeconfig.json
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.runtimeconfig.dev.json
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.dll
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\ref\Consonants.dll
+C:\Users\user\source\repos\Consonants\bin\Debug\net5.0\Consonants.pdb
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.AssemblyInfo.cs
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.dll
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\ref\Consonants.dll
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.pdb
+C:\Users\user\source\repos\Consonants\obj\Debug\net5.0\Consonants.genruntimeconfig.cache
