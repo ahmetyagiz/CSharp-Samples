@@ -67,29 +67,26 @@ In this method, the developer must be doing the conversions. There are different
 ### Constructors (TR)
 Constructor Kavramı
 
-
 Bir sınıftan bir nesne oluşturulduğunda biz tanımlamasak bile arka planda çalışan varsayılan yapıcı metotlara kurucu yada constructor denir. Sınıf nesnesi ilk oluşturulduğunda yapılmasını istediğimiz işleri kurucu metotlar içerisinde yaparız.
 
-
-
 Kurucu metot tanımlarken dikkat edilmesi gereken noktalar ise şu şekildedir:
-
-
 
 Yapıcı metotların isimleri sınıf isimleri ile aynı olmak zorundadır.
 Public olarak bildirilmeleri gerekir.
 Geri dönüş değerleri yoktur.
 
-
 Kurucu metotların imzasını değiştirerek overload edebiliriz yani aşırı yükleyebiliriz. Metotları anlatırken aşırı yüklemeden bahsetmiştik. (Bkz: Metotların Aşırı Yüklenmesi)
-
-
 
 Varsayılan Kurucu Metot
 
-
 Her sınıfın biz tanımlamasakta bir tane kurucu metotu vardır. Buna varsayılan kurucu metot (default constructor) denir.
 
-
-
 Default constructor'ın görevi sınıfın içerindeki özelliklere ilk değer ataması yapılmadığında onların default değerlerini set etmektir. Şöyle düşünebilirsiniz; sınıf içerisinde string veri tipinde bir özellik varsa ve siz ilk değer atamasını yapmazsanız varsayılan kurucu onun atamasını arka planda null olarak yapar. Aynı integer tipinde bir özelliğin ilk değer atamasını 0 olarak yapar.
+
+### C#'ta static Kavramı (TR)
+
+İçinde buluduğu sınıftan nesne oluşturulmadan veya hiç bir nesneye referans olmadan kullanılabilen üyeler static olarak nitelendirilir. Metotlar ve alanlar static olarak tanımlanabilir.
+
+Bir Sınıf İçerisinde Bulunan Metotların Static Olarak Tanımlanması
+
+## static olma durumunun en bilinen örneği Main() metodudur. Main(), herhangi bir nesne oluşturulmadan önce çağırılması gerektiği için static olarak tanımlanmıştır. Başka bir deyişle de bir nesne metodun üreteceği sonucu etkilemeyecek ise o metot static olarak tanımlanır. Static olarak tanımlanan bir metoda program çalıştığı sürece erişilir, böylece sadece bir metot ile birden çok nesne çağırılır. 
