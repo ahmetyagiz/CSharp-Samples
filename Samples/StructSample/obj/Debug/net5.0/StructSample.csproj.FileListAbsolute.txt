@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.exe
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.deps.json
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.runtimeconfig.json
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.runtimeconfig.dev.json
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.dll
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\ref\StructSample.dll
+C:\Users\user\source\repos\StructSample\bin\Debug\net5.0\StructSample.pdb
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.AssemblyInfo.cs
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.dll
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\ref\StructSample.dll
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.pdb
+C:\Users\user\source\repos\StructSample\obj\Debug\net5.0\StructSample.genruntimeconfig.cache
