@@ -6,13 +6,13 @@ Class kullanmanızı gerektirecek kadar komplex olmayan yapılarınız varsa ve 
 
 Yapıların özellikleri:
 
-### Class lar referans tipli özellikler gösterir, Yapılar ise değer tipli özellikler gösterirler. En temel fark budur.
-### Diğer struct ya da sınıflardan kalıtım almazlar.
-### Interface'lerden kalıtım alabilirler.
-### new anahtar sözcüğü ile nesneleri yaratılabilir.
-### Sınıflar gibi metot, property ve field'lardan oluşurlar.
-### Sınıf içerisinde struct, struct içerisinde de sınıf oluşturulabilir.
-### Static üye barındırabilirler.
+- Class lar referans tipli özellikler gösterir, Yapılar ise değer tipli özellikler gösterirler. En temel fark budur.
+- Diğer struct ya da sınıflardan kalıtım almazlar.
+- Interface'lerden kalıtım alabilirler.
+- new anahtar sözcüğü ile nesneleri yaratılabilir.
+- Sınıflar gibi metot, property ve field'lardan oluşurlar.
+- Sınıf içerisinde struct, struct içerisinde de sınıf oluşturulabilir.
+- Static üye barındırabilirler.
 
 Syntax of struct:
 
