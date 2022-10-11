@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.exe
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.deps.json
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.runtimeconfig.json
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.runtimeconfig.dev.json
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.dll
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\ref\EnumSample.dll
+C:\Users\user\source\repos\EnumSample\bin\Debug\net5.0\EnumSample.pdb
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.AssemblyInfo.cs
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.dll
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\ref\EnumSample.dll
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.pdb
+C:\Users\user\source\repos\EnumSample\obj\Debug\net5.0\EnumSample.genruntimeconfig.cache
