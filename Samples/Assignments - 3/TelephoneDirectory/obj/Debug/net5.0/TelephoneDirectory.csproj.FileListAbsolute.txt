@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.exe
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.deps.json
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.dev.json
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.dll
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\ref\TelephoneDirectory.dll
+C:\Users\user\source\repos\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.pdb
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.dll
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\ref\TelephoneDirectory.dll
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.pdb
+C:\Users\user\source\repos\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.genruntimeconfig.cache
