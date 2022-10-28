@@ -4,6 +4,9 @@ using System.Collections;
 
 namespace TelephoneDirectory
 {
+    /// <summary>
+    /// Dictionary ile yapılabilir
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
