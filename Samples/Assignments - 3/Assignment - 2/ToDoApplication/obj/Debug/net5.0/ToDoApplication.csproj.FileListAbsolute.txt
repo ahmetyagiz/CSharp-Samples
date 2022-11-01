@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.exe
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.deps.json
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.runtimeconfig.json
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.runtimeconfig.dev.json
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.dll
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ref\ToDoApplication.dll
+C:\Users\user\source\repos\ToDoApplication\bin\Debug\net5.0\ToDoApplication.pdb
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.dll
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ref\ToDoApplication.dll
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.pdb
+C:\Users\user\source\repos\ToDoApplication\obj\Debug\net5.0\ToDoApplication.genruntimeconfig.cache
