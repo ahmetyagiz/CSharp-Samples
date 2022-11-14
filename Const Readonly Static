@@ -1,0 +1,29 @@
+Constant
+Constant alanlara veya local (yerel) değişkenlere bildirim sırasında bir değer atanmalıdır ve bundan sonra değerleri değiştirilemezler. Varsayılan olarak Constant’lar static’tir, dolayısıyla Constant bir tipi static olarak tanımlayamazsınız.
+
+Const (uzunca okunuşu: constant) olarak bildirilen bir değişkene bildirimde (tanımlama anında) bir değer atanmalıdır ve bu değer daha sonra değiştirilemez.
+
+public const string ConnectionString = "YourConnectionString";
+Bir const değişkenindeki değer, “compile-time (derleme zamanı)” değeri olarak adlandırılan değerdir ve değişmezdir (program ömrü boyunca değişmez).
+
+Yalnızca primitive (ilkel) veya built-in (yerleşik) C# tiplerinin (örneğin, int, string, double) const ilan edilmesine izin verilir. Bu nedenle, aşağıdakilerden herhangi birini yazamazsınız:
+
+public const DateTime DateOfFoundation = new DateTime(1923,10,29);
+public const MyClass MyValue = new Class() {Name = "TestName"};
+Uygulamanız kullanılırken değeri hiç değişmeyecek bir değişkeniniz olduğunda const kullanmak istersiniz. Ayrıca, const olarak bildirilen herhangi bir değişken, dolaylı olarak static olarak da bildirilecektir.
+
+Bir const alanı compile-time (derleme zamanı) sabiti olduğunu söyledik. Sabit bir alan veya yerel değişken derleme zamanında tamamen değerlendirilmesi gereken sabit bir ifade ile başlatılabilir.
+
+void Hesapla(int Z)
+{
+   const int X = 10, X1 = 50;
+   const int Y = X + X1; //hata yok, derleme zamanı (compile time) değerlendirildiğinden
+   const int Y1 = X + Z; //çalışma zamanında (run time) değerlendirildiğinde hata verir
+}
+Const anahtar sözcüğünü yerleşik değer türlerine (yani built-in value types) (byte, short, int, long, char, float, double, decimal, bool), enum, bir dize değişkeni (string literal) veya null ile atanabilecek bir reference türüne uygulayabilirsiniz.
+
+const BenimSinifim obj1 = null; //hata yok, derleme zamanı değerlendirildiğinden
+const BenimSinifim obj2 = new BenimSinifim(); //çalışma zamanında değerlendirildiğinden hata verir
+Const’lar public, private, protected, internal veya protected internal erişim değiştiricileri (access modifiers) olarak işaretlenebilir.
+
+Bir alanın veya yerel (local) değişkenin değerinin değişmeyeceğinden emin olduğunuzda const değiştiricisini kullanın.
