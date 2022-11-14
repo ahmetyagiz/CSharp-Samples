@@ -1,3 +1,18 @@
+C#’ta Const, Readonly ve Static Anahtar Kelimeleri Arasındaki Farklar
+Posted on Mart 11, 2018 by Tuncay Uyar
+
+# Const, static ve readonly kullanma hakkında bilmeniz gerekenler:
+
+Değerin hiçbir zaman, hiçbir zaman, hiç bir zaman değişmeyeceğini biliyorsanız, const kullanın.
+Değerin değişip değişmeyeceğinden emin değilseniz, ancak diğer sınıfların veya kodun onu değiştirmesini istemiyorsanız, readonly kullanın.
+Bir türün özelliği olması için bir alana ihtiyacınız varsa ve o türün bir örneğinin özelliği olmadığında static kullanın.
+Bir const değeri de dolaylı olarak static’tir
+
+-----------------------------
+Const ve readonly anahtar sözcüğü, bir alanı sabit hale getirmek için kullanılır; bu değer değiştirilemez. Static anahtar kelimesi, üyelerin tüm sınıf nesneleri tarafından paylaşılabilecek static olmalarını sağlamak için kullanılır. Bu yazıda, bu üç arasındaki farkı anlayacağız.
+
+Şimdi C#’daki const, readonly ve static değişkenler arasındaki farkın ne olduğunu ve bu anahtar kelimelerin her birini ne zaman kullanmamız gerektiğini öğrenelim.
+
 Constant
 Constant alanlara veya local (yerel) değişkenlere bildirim sırasında bir değer atanmalıdır ve bundan sonra değerleri değiştirilemezler. Varsayılan olarak Constant’lar static’tir, dolayısıyla Constant bir tipi static olarak tanımlayamazsınız.
 
@@ -27,3 +42,65 @@ const BenimSinifim obj2 = new BenimSinifim(); //çalışma zamanında değerlend
 Const’lar public, private, protected, internal veya protected internal erişim değiştiricileri (access modifiers) olarak işaretlenebilir.
 
 Bir alanın veya yerel (local) değişkenin değerinin değişmeyeceğinden emin olduğunuzda const değiştiricisini kullanın.
+
+Readonly (Salt Okunur)
+Readonly bir alan, bildirim sırasında veya aynı sınıfın yapıcısı içinde başlatılabilir. Bu nedenle, readonly alanlar run-time (çalışma zamanı) sabitleri için kullanılabilir. Readonly bir alan, bu alana atanmanın yalnızca sınıfın bildiriminin bir parçası olarak veya bir kurucuda gerçekleşebileceği alandır.
+
+class BenimSinifim
+{
+   readonly int X = 10; // beyan edildiği sırada değeri atanan sabit
+   readonly int X1;
+
+   public BenimSinifim(int x1)
+   {
+      X1 = x1; // çalışma zamanında değeri atanır
+   }
+}
+Başka bir örnek;
+
+public class TestClass
+{
+   public readonly string ConnectionString = "TestConnection";
+
+   public TestClass()
+   {
+      ConnectionString = "DifferentConnection";
+   }
+
+   public void TestMethod ()
+   {
+      ConnectionString = "NewConnection"; //Derlenmeyecektir
+   }
+}
+
+Bu, readonly (salt okunur) bir değişkenin aynı sınıftaki farklı kurucular için farklı değerlere sahip olabileceği anlamına gelir.
+
+Açıkça (explicitly), readonly alanını static olarak belirleyebilirsiniz çünkü readonly alanlar const gibi varsayılan olarak static değildir.
+
+ReadOnly anahtar kelimesi, değer (value) türüne ve referans (reference) türüne uygulanabilir.
+
+Çalışma zamanında (run time) bir alanı sabitlemek istediğinizde readonly değiştiriciyi kullanın.
+
+Sonuç olarak; Const compile time sabitidir, ReadOnly run time sabitidir.
+
+Diagram-Readonly-Vs-Constant
+
+Static
+Static anahtar kelimesi, spesifik bir üyeyi static olarak belirtmek için kullanılır; bu, static üyelerin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadıkları anlamına gelir. Bu anahtar kelime sınıflar (class), alanlar (fields), yöntemler (methods), özellikler (properties), operatörler (operators), olaylar (events) ve yapıcılar (constructors) ile kullanılabilir, ancak dizin oluşturucular (indexers), yıkıcılar (destructors) veya sınıf dışındaki türlerle kullanılamaz.
+
+class BenimSinifim
+{
+   static int X = 10;
+   int Y = 20;
+   public static void Goster()
+   {
+      Console.WriteLine(X);
+      Console.WriteLine(Y); //Yalnızca statik üyelere erişebileceğinizden bu erişim hatalıdır
+   }
+}
+Statik anahtar kelimesi ile ilgili önemli noktalar:
+
+Static anahtar sözcüğü bir sınıfa uygulanırsa, sınıfın tüm üyeleri static olmalıdır.
+Static yöntemler (methods) yalnızca aynı sınıfın static üyelerine erişebilir. Static özellikler (properties), bir sınıfın static alanlarının değerini almak veya ayarlamak için kullanılır.
+Static bir kurucu method (constructor) parametreleştirilemez. Erişim düzenleyicileri Static yapıcıya (static constructor) uygulanamaz, her zaman sınıfın static alanlarını başlatmak için kullanılan genel bir varsayılan yapıcıdır.
+Özetle;
