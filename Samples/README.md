@@ -89,4 +89,12 @@ Default constructor'ın görevi sınıfın içerindeki özelliklere ilk değer a
 
 Bir Sınıf İçerisinde Bulunan Metotların Static Olarak Tanımlanması
 
-## static olma durumunun en bilinen örneği Main() metodudur. Main(), herhangi bir nesne oluşturulmadan önce çağırılması gerektiği için static olarak tanımlanmıştır. Başka bir deyişle de bir nesne metodun üreteceği sonucu etkilemeyecek ise o metot static olarak tanımlanır. Static olarak tanımlanan bir metoda program çalıştığı sürece erişilir, böylece sadece bir metot ile birden çok nesne çağırılır. 
+# static olma durumunun en bilinen örneği Main() metodudur. Main(), herhangi bir nesne oluşturulmadan önce çağırılması gerektiği için static olarak tanımlanmıştır. Başka bir deyişle de bir nesne metodun üreteceği sonucu etkilemeyecek ise o metot static olarak tanımlanır. Static olarak tanımlanan bir metoda program çalıştığı sürece erişilir, böylece sadece bir metot ile birden çok nesne çağırılır. 
+
+### Framework ne demek?
+
+Framework, yazılım geliştirme sürecini hızlandırmak ve kolaylaştırmak amacıyla hazır bir altyapı ve çerçeve sağlayan bir yazılım aracıdır. Bu altyapı ve çerçeve, yazılım geliştiricilerinin uygulama geliştirirken tekrar tekrar yazmaları gereken temel işlevleri ve kodları içerir.
+
+Framework, uygulama geliştiricilerine birçok avantaj sağlar. Örneğin, daha hızlı ve güvenli kod yazımı, daha az hata ve daha az tekrarlı kod yazımı gibi avantajlar sunar. Ayrıca, framework'ler sık sık güncellenir ve yeni özellikler eklenir, böylece geliştiriciler yazılım geliştirirken son teknolojileri kullanabilirler.
+
+Örneğin, .NET Framework, Windows işletim sistemi üzerinde çalışan uygulamaların geliştirilmesi için kullanılan bir framework'tür. .NET Framework, uygulama geliştiricilerine birçok hazır kütüphane ve bileşen sunarak hızlı bir şekilde uygulama geliştirmelerine yardımcı olur. Bu nedenle, framework'ler yazılım geliştirme sürecinde önemli bir rol oynar ve yazılım geliştiricileri tarafından sıkça kullanılır.
