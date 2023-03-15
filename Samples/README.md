@@ -48,6 +48,7 @@ Most of the time, we may have to work with different data types while writing ap
 Type conversions can be done in 2 ways:
 
 1 - Implicit Conversion
+
 2 - Explicit Conversion
 
 ### 1 - Implicit Conversion
