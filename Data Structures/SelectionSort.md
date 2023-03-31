@@ -12,6 +12,8 @@ Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
 ## Çözüm
+Insertion Sort, 1 indexten başlayarak sayar ve solundaki elemanlar ile karşılaştırma yapar. Eğer solundaki elemandan küçük ise yer değiştirir.
+
 [22, 27, 16, 2, 18, 6] listesinin Insertion Sort kullanılarak sıralanması aşamaları:
 
 1) 22 ve 27 arasında bir sıralama yapmaya gerek yoktur, çünkü 22 zaten küçük bir listede tek başına sıralıdır.
@@ -36,3 +38,11 @@ Time Complexity: Worst Case
 ## Problem 2
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 ## Çözüm
+Selection Sort, listenin elemanlarını küçükten büyüğe (veya büyükten küçüğe) sıralayan basit bir sıralama algoritmasıdır.
+Listenin ilk elemanını seçin ve en küçük eleman olarak kabul edin.
+Listenin kalan elemanlarını tarayın ve en küçük elemanı bulun.
+
+1) [7, 3, 5, 8, 2, 9, 4, 15, 6]
+3) [2, 3, 5, 8, 7, 9, 4, 15, 6]
+4) [2, 3, 4, 8, 7, 9, 5, 15, 6]
+5) [2, 3, 4, 5, 7, 9, 8, 15, 6]
