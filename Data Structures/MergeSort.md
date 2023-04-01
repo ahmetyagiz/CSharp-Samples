@@ -27,3 +27,20 @@ Tüm dizi sıralanmış olarak birleştirilir:
 [8, 11, 12, 16, 21, 22]
 
 Bu şekilde Merge Sort algoritması kullanılarak verilen sayı dizisi sıralanmış oldu.
+
+Big-O gösterimi O(nlogn) şeklindedir.
+
+[16,21,11,8,12,22]
+
+                       [16,21,11,8,12,22]
+                       
+                       /             \
+                  [16,21,11]         [8,12,22]
+                     /                 \
+                [11]   [16,21]         [8, 12, 22]
+                
+              11    16   21       8    12   22
+             
+             [11,16,21]                 [8,12,22]
+             
+                     [8, 11, 12, 16, 21, 22]
