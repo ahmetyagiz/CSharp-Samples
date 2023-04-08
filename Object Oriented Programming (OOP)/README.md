@@ -33,6 +33,21 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 - Interface, sınıfların kullanacağı yöntem ve özelliklerin açık bir şekilde tanımlandığı bir şablon, arayüzdür.
 - Kullanımı, kodun parçalara ayrılması sağlar ve yönetilmesini kolaylaştırır. Kod tekrarını engeller.
 
+### Constructor:
+- Constructor, bir sınıf türetildiğinde otomatik olarak çağrılan özel bir metottur. Bu yöntem, sınıfın özelliklerini ve davranışlarını tanımlar ve nesnelerin doğru şekilde oluşturulmasını sağlar.
+
+### "this" Keyword:
+- "this", Sınıfın kendisini ifade eden bir referanstır. Özellikle, sınıf içinde bulunan bir özellik veya metot ismi, aynı isimde başka bir yerde kullanıldığında karışıklıkları önlemek için kullanılır.
+
+### "ref" Keyword
+- "ref" bir değişkenin referans tipi olarak işaretlenmesini sağlar. Bu sayede, bu değişken bir metoda argüman olarak geçirildiğinde, metot içinde yapılan değişiklikler orijinal değişkeni de etkiler.
+
+~~~csharp
+void Increase(ref int num)
+{
+    num++;
+}
+~~~
 ### Abstraction vs Interface:
 | Abstract Class                          | Interface                                |
 | ---------------------------------------| ---------------------------------------- |
