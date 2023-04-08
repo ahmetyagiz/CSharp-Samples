@@ -1,10 +1,10 @@
-# "const", "static" ve "readonly"
+# "const", "readonly" ve "static"
 
 Kelime | Tanım
 ------ | ------
 const | Bir değişkenin sabit olduğunu ve değiştirilemez olduğunu belirtir. Tanımlama anında bir değer atanır ve bu değer daha sonra değiştirilemez.
-static | Bir üyenin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadığı anlamına gelir.
 readonly | Bir değişkene tanımlandığı anda veya constructorda sadece bir kez değer atanabileceği anlamına gelir. Değer, sonrasında değiştirilemez.
+static | Bir üyenin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadığı anlamına gelir.
 
 ## Constant
 Constant alanlara veya local (yerel) değişkenlere bildirim sırasında bir değer atanmalıdır ve bundan sonra değerleri değiştirilemezler. Varsayılan olarak Constant’lar static’tir, dolayısıyla Constant bir tipi static olarak tanımlayamazsınız.
