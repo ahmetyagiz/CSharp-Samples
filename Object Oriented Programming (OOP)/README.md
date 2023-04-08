@@ -40,5 +40,5 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 | Static üyeler içerebilir.               | Static üyeler içeremez.                   |
 | Farklı tipte erişim belirleyici içerebilir. | Erişim belirleyiciler kullanılmaz. Default olarak 'public' kabul edilir. |
 | Sınıfın ait olduğu kimliği belirtmek için kullanılır. | Sınıfın yapabileceği kabiliyetleri belirtmek için kullanılır. |
-| Bir sınıf sadece bir tane abstract sınıfı inherit edebilir. | Bir sınıf birden fazla interface'i sınıfı inherit edebilir. |
+| Bir sınıf sadece bir tane abstract sınıftan kalıtım alabilir. | Bir sınıf birden fazla interface'i kalıtım alabilir. |
 | Türetilen sınıflar sınıfın hepsini veya bir kısmını da implement edebilir. | İnterface'i tamamen implement etmek zorundadır. |
