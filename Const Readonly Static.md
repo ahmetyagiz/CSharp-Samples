@@ -3,8 +3,8 @@
 Kelime | Tanım
 ------ | ------
 const | Bir değişkenin sabit olduğunu ve değiştirilemez olduğunu belirtir. Tanımlama anında bir değer atanır ve bu değer daha sonra değiştirilemez.
-static | Bir sınıfın örneği olmadan kullanılabilen bir özelliktir. Her sınıfın bir statik alanı vardır ve statik alan, tüm örnekler arasında paylaşılır.
-readonly | Bir değişkenin sadece bir kez atanabileceği anlamına gelir. Değer, sadece bir kez atanır ve sonrasında değiştirilemez.
+static | Bir üyenin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadığı anlamına gelir.
+readonly | Bir değişkene tanımlandığı anda veya constructorda sadece bir kez değer atanabileceği anlamına gelir. Değer, sonrasında değiştirilemez.
 
 ## Constant (const)
 Constant alanlara veya local (yerel) değişkenlere bildirim sırasında bir değer atanmalıdır ve bundan sonra değerleri değiştirilemezler. Varsayılan olarak Constant’lar static’tir, dolayısıyla Constant bir tipi static olarak tanımlayamazsınız.
@@ -33,7 +33,6 @@ class ExampleClass
 "const" compile time sabitidir, "readonly" run time sabitidir.
 
 ## Static
-Static anahtar kelimesi, spesifik bir üyeyi static olarak belirtmek için kullanılır; bu, static üyelerin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadıkları anlamına gelir. Bu anahtar kelime sınıflar (class), alanlar (fields), yöntemler (methods), özellikler (properties), operatörler (operators), olaylar (events) ve yapıcılar (constructors) ile kullanılabilir, ancak dizin oluşturucular (indexers), yıkıcılar (destructors) veya sınıf dışındaki türlerle kullanılamaz.
 ~~~csharp
 class BenimSinifim
 {
