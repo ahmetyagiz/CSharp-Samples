@@ -27,12 +27,12 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 
 ### Object:
 - Nesne bir sınıfın instance'ıdır. Her nesne, sınıfın özelliklerini ve davranışlarını taşır.
+- C#'ta bu şekilde türetilir:
+~~~csharp
+Car myObj = new Car(); 
+~~~
 
-    - C#'ta bu şekilde türetilir:
-        ~~~csharp
-        Car myObj = new Car(); 
-        ~~~ 
-    - Unity'de bunun yerine GameObject kullanılır.
+- Unity'de bunun yerine GameObject kullanılır.
 ### Interface:
 - Interface, sınıfların kullanacağı yöntem ve özelliklerin açık bir şekilde tanımlandığı bir şablon, arayüzdür.
 - Kullanımı, kodun parçalara ayrılması sağlar ve yönetilmesini kolaylaştırır. Kod tekrarını engeller.
