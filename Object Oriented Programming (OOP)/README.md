@@ -26,5 +26,5 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 - Class, nesne yönelimli programlamada nesnelerin özelliklerini ve davranışlarını tanımlamak için kullanılan bir şablondur. 
 
 ### Object:
-- Nesneler sınıftan türetilir. Her nesne, sınıfın özelliklerini ve davranışlarını taşır. Nesne bir sınıfın (instance'ıdır) örneğidir .
+- Nesneler sınıftan türetilir. Her nesne, sınıfın özelliklerini ve davranışlarını taşır. Nesne bir sınıfın instance'ıdır.
 - C#'ta Car myObj = new Car(); şeklinde kullanılır. Unity'de bunun yerine GameObject kullanılır.
