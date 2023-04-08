@@ -1,14 +1,11 @@
-C#’ta Const, Readonly ve Static Anahtar Kelimeleri Arasındaki Farklar
-Posted on Mart 11, 2018 by Tuncay Uyar
+# "const", "static" ve "readonly"
 
-# Const, static ve readonly kullanma hakkında bilmeniz gerekenler:
+Kelime | Tanım
+------ | ------
+const | Bir değişkenin sabit olduğunu ve değiştirilemez olduğunu belirtir. Tanımlama anında bir değer atanır ve bu değer daha sonra değiştirilemez.
+static | Bir sınıfın örneği olmadan kullanılabilen bir özelliktir. Her sınıfın bir statik alanı vardır ve statik alan, tüm örnekler arasında paylaşılır.
+readonly | Bir değişkenin sadece bir kez atanabileceği anlamına gelir. Değer, sadece bir kez atanır ve sonrasında değiştirilemez.
 
-Değerin hiçbir zaman, hiçbir zaman, hiç bir zaman değişmeyeceğini biliyorsanız, const kullanın.
-Değerin değişip değişmeyeceğinden emin değilseniz, ancak diğer sınıfların veya kodun onu değiştirmesini istemiyorsanız, readonly kullanın.
-Bir türün özelliği olması için bir alana ihtiyacınız varsa ve o türün bir örneğinin özelliği olmadığında static kullanın.
-Bir const değeri de dolaylı olarak static’tir
-
------------------------------
 Const ve readonly anahtar sözcüğü, bir alanı sabit hale getirmek için kullanılır; bu değer değiştirilemez. Static anahtar kelimesi, üyelerin tüm sınıf nesneleri tarafından paylaşılabilecek static olmalarını sağlamak için kullanılır. Bu yazıda, bu üç arasındaki farkı anlayacağız.
 
 Şimdi C#’daki const, readonly ve static değişkenler arasındaki farkın ne olduğunu ve bu anahtar kelimelerin her birini ne zaman kullanmamız gerektiğini öğrenelim.
