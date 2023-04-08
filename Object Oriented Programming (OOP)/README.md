@@ -56,11 +56,19 @@ Car myObj = new Car();
 
 ### "ref" Keyword
 - "ref" bir değişkenin referans tipi olarak işaretlenmesini sağlar. Bu sayede, bu değişken bir metoda argüman olarak geçirildiğinde, metot içinde yapılan değişiklikler orijinal değişkeni de etkiler.
-
 ~~~csharp
 void Increase(ref int num)
 {
     num++;
+}
+~~~
+
+### "sealed"
+- Kalıtım alınması istenmeyen sınıfa yazılır.
+~~~csharp
+sealed class Vehicle 
+{
+  ...
 }
 ~~~
 
