@@ -1,28 +1,30 @@
-# Object-Oriented-Programming (TUR)
-
-# Nesne Yönelimli Programlama Nedir ?
+## Object Oriented Programming
 
 Nesne Yönelimli Programlama (Object Oriented Programming), sınıflar ve nesneler kavramına dayanan bir programlama yaklaşımıdır. Bu yaklaşımın amacı, ihtiyaç duyulan programı daha küçük parçalara bölerek, yönetilebilir ve yeniden kullanılabilir hale getirmektir. Her küçük parçanın kendine ait özelliği, verileri ve diğer küçük parçalarla nasıl iletişim kuracağı bilgileri bulunur.
 
-![1_sHPfbrrsIALOg71lOXYnRg](https://user-images.githubusercontent.com/78081616/193840260-4fe90c78-b7d7-47ca-935a-b5cd4d3261bb.png)
+![oop](https://user-images.githubusercontent.com/78081616/230722329-8b5bec82-2b3b-484f-b510-cf0d47186b2b.png)
 
-## Encapsulation (Kapsülleme)
-Sarmalama ilkesi, bir sınıfa ait değişkenlerin veya niteliklerin ancak o sınıfa ait metotlar tarafından değiştirilebilmesi ve okunabilmesi ilkesidir. Bu ilke sayesinde nesnelerde oluşacak anlamsızlıkların önüne geçilebilir.
+### 1. Encapsulation:
+- Verilerin ve işlevlerin sınıflar içinde saklanması ve sınıf dışından erişimlerin kontrol edilmesi işlemidir.
+- Bu prensip, sınıfın kendi içerisindeki yapısının dışarıya kapalı tutulması sayesinde sınıfın daha korunaklı, daha güvenli ve daha sürdürülebilir olmasını sağlar.
 
-Ayrıca değişkenlere sınıfların dışından erişim olmaması ve bir sınıf içindeki değişkenlerin nasıl ve ne kadar olacağının da başka kodlardan saklanmış olması anlamına gelir. Böylelikle biz değişkenlerimizi sarmalayarak istenmeyen durumlardan korunacak bir filtre haline dönüştürebiliriz.
+### 2. Inheritance:
+- Bir sınıfın diğer sınıflardan özelliklerini devralması işlemidir.
+- Bu prensip, kodun tekrarını önler, kodun yeniden kullanılabilirliğini arttırır ve nesneler arasında doğru hiyerarşik ilişkiler kurulmasını sağlar.
 
-## Inheritance (Kalıtım)
+### 3. Polymorphism:
+- Aynı isme sahip işlevlerin farklı şekillerde davranabilmesini sağlayan bir prensiptir.
+- Bu prensip, kodun esnekliğini arttırır, aynı işlevi tekrar tekrar yazmaktan kaçınmayı sağlar ve kodun daha okunaklı hale gelmesine yardımcı olur.
 
-Kalıtım, programlama ortamında da gerçek hayattaki tanımına benzer bir işi gerçekleştirir. Bir sınıfın başka bir sınıftan kalıtım yapması demek, kalıtımı yapan sınıfın diğer sınıftaki nitelik ve davranışlarını kendisine alması demektir. Kalıtımı yapan sınıfa alt sınıf, kendisinden kalıtım yapılan sınıfa ata sınıf dersek, ata sınıfta tanımlı olan her şeyin alt sınıf için de tanımlı olduğunu söyleyebiliriz.
+### 4. Abstraction:
+- Karmaşık yapıların basitleştirilerek, yalnızca gerekli özelliklerin gösterilmesini sağlar. Eğer bir sınıf için nesne üretmek mantıksız geliyorsa o sınıf soyutlanabilir.
+- Bu prensip, programcıların nesnelere yalnızca önemli olan özelliklere odaklanmalarını sağlar, kodun daha okunaklı ve daha anlaşılır olmasını sağlar ve kodun yeniden kullanılabilirliğini ve sürdürülebilirliğini arttırır.
 
-## Polymorphism (Çok Biçimlilik)
+Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taşlarını oluşturur ve birlikte kullanıldıklarında, daha esnek, okunaklı, sürdürülebilir ve genişletilebilir kodlar yazmaya yardımcı olurlar.
 
-Polymorphism (çok biçimlilik) NYP'de programlama dilinin farklı tip verileri ve sınıfları farklı şekilde işleme yeteneğini belirten özelliğidir. Daha belirgin olmak gerekirse, metotları ve türetilmiş sınıfları yeniden tanımlama yeteneğidir.
+### Class:
+- Class, nesne yönelimli programlamada nesnelerin özelliklerini ve davranışlarını tanımlamak için kullanılan bir şablondur. 
 
-Polimorfizm, alt sınıfların ata sınıflardaki metotları geçersiz kılması(method overriding) sayesinde çok biçimli olarak davranmasına denir. Bu sayede alt sınıf ata sınıfından gelen davranışı kendine göre şekillendirebilir.
-
-## Abstraction (Soyutlama)
-
-Nesne yönelimli programlamada Soyutlama (Abstraction) ilkesi, eğer bir sınıf için nesne üretmek mantıksız geliyorsa o sınıf soyutlanabilir. Alt sınıfların ortak özelliklerini ve işlevlerini taşıyan ancak henüz bir nesnesi olmayan bir üst sınıf oluşturmak istenirse bir soyut (abstract) üst sınıf oluşturulur.
-
-Soyutlama, bir sınıfa veya metoda temel görevlerin tanımlanması, detayların ise tanımlanmaması demektir. Temel olarak bir soruna ait çözüme giderken kullanılacak yöntemlerin, ilk etapta daha genel basit ve soyut bir tanımını yapmaktır.
+### Object:
+- Nesneler sınıftan türetilir. Her nesne, sınıfın özelliklerini ve davranışlarını taşır. Nesne bir sınıfın (instance'ıdır) örneğidir .
+- C#'ta Car myObj = new Car(); şeklinde kullanılır. Unity'de bunun yerine GameObject kullanılır.
