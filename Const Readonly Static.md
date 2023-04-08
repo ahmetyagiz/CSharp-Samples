@@ -29,9 +29,9 @@ Yalnızca primitive (ilkel) veya built-in (yerleşik) C# tiplerinin (örneğin, 
 ~~~csharp
 public const DateTime DateOfFoundation = new DateTime(1923,10,29);
 public const MyClass MyValue = new Class() {Name = "TestName"};
-Uygulamanız kullanılırken değeri hiç değişmeyecek bir değişkeniniz olduğunda const kullanmak istersiniz. Ayrıca, const olarak bildirilen herhangi bir değişken, dolaylı olarak static olarak da bildirilecektir.
 ~~~
 
+Uygulamanız kullanılırken değeri hiç değişmeyecek bir değişkeniniz olduğunda const kullanmak istersiniz. Ayrıca, const olarak bildirilen herhangi bir değişken, dolaylı olarak static olarak da bildirilecektir.
 Bir const alanı compile-time (derleme zamanı) sabiti olduğunu söyledik. Sabit bir alan veya yerel değişken derleme zamanında tamamen değerlendirilmesi gereken sabit bir ifade ile başlatılabilir.
 
 ~~~csharp
@@ -48,9 +48,9 @@ Const anahtar sözcüğünü yerleşik değer türlerine (yani built-in value ty
 ~~~csharp
 const BenimSinifim obj1 = null; //hata yok, derleme zamanı değerlendirildiğinden
 const BenimSinifim obj2 = new BenimSinifim(); //çalışma zamanında değerlendirildiğinden hata verir
-Const’lar public, private, protected, internal veya protected internal erişim değiştiricileri (access modifiers) olarak işaretlenebilir.
 ~~~
 
+Const’lar public, private, protected, internal veya protected internal erişim değiştiricileri (access modifiers) olarak işaretlenebilir.
 Bir alanın veya yerel (local) değişkenin değerinin değişmeyeceğinden emin olduğunuzda const değiştiricisini kullanın.
 
 ## Readonly (Salt Okunur)
