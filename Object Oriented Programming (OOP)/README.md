@@ -32,3 +32,13 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 ### Interface:
 - Interface, sınıfların kullanacağı yöntem ve özelliklerin açık bir şekilde tanımlandığı bir şablon, arayüzdür.
 - Kullanımı, kodun parçalara ayrılması sağlar ve yönetilmesini kolaylaştırır. Kod tekrarını engeller.
+
+### Abstraction vs Interface:
+| Abstract Class                          | Interface                                |
+| ---------------------------------------| ---------------------------------------- |
+| Constructor içerebilir.                | Constructor içeremez.                    |
+| Static üyeler içerebilir.               | Static üyeler içeremez.                   |
+| Farklı tipte erişim belirleyici içerebilir. | Erişim belirleyiciler kullanılmaz. Default olarak 'public' kabul edilir. |
+| Sınıfın ait olduğu kimliği belirtmek için kullanılır. | Sınıfın yapabileceği kabiliyetleri belirtmek için kullanılır. |
+| Bir sınıf sadece bir tane abstract sınıfı inherit edebilir. | Bir sınıf birden fazla interface'i sınıfı inherit edebilir. |
+| Türetilen sınıflar sınıfın hepsini veya bir kısmını da implement edebilir. | İnterface'i tamamen implement etmek zorundadır. |
