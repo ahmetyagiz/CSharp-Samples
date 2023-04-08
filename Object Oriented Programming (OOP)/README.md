@@ -22,6 +22,20 @@ Nesne Yönelimli Programlama (Object Oriented Programming), sınıflar ve nesnel
 
 Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taşlarını oluşturur ve birlikte kullanıldıklarında, daha esnek, okunaklı, sürdürülebilir ve genişletilebilir kodlar yazmaya yardımcı olurlar.
 
+### Interface:
+- Interface, sınıfların kullanacağı yöntem ve özelliklerin açık bir şekilde tanımlandığı bir şablon, arayüzdür.
+- Kullanımı, kodun parçalara ayrılması sağlar ve yönetilmesini kolaylaştırır. Kod tekrarını engeller.
+
+### Abstraction vs Interface:
+| Abstract Class                          | Interface                                |
+| ---------------------------------------| ---------------------------------------- |
+| Constructor içerebilir.                | Constructor içeremez.                    |
+| Static üyeler içerebilir.               | Static üyeler içeremez.                   |
+| Farklı tipte erişim belirleyici içerebilir. | Erişim belirleyiciler kullanılmaz. Default olarak 'public' kabul edilir. |
+| Sınıfın ait olduğu kimliği belirtmek için kullanılır. | Sınıfın yapabileceği kabiliyetleri belirtmek için kullanılır. |
+| Bir sınıf sadece bir tane abstract sınıftan kalıtım alabilir. | Bir sınıf birden fazla interface'i kalıtım alabilir. |
+| Türetilen sınıflar sınıfın hepsini veya bir kısmını da implement edebilir. | İnterface'i tamamen implement etmek zorundadır. |
+
 ### Class:
 - Class, nesne yönelimli programlamada nesnelerin özelliklerini ve davranışlarını tanımlamak için kullanılan bir şablondur. 
 
@@ -31,15 +45,12 @@ Bu dört prensip, nesne yönelimli programlama yaklaşımının temel yapı taş
 ~~~csharp
 Car myObj = new Car(); 
 ~~~
-
 - Unity'de bunun yerine GameObject kullanılır.
-### Interface:
-- Interface, sınıfların kullanacağı yöntem ve özelliklerin açık bir şekilde tanımlandığı bir şablon, arayüzdür.
-- Kullanımı, kodun parçalara ayrılması sağlar ve yönetilmesini kolaylaştırır. Kod tekrarını engeller.
 
 ### Constructor:
 - Constructor, bir sınıf türetildiğinde otomatik olarak çağrılan özel bir metottur. Bu yöntem, sınıfın özelliklerini ve davranışlarını tanımlar ve nesnelerin doğru şekilde oluşturulmasını sağlar.
 
+## Keywords
 ### "this" Keyword:
 - "this", Sınıfın kendisini ifade eden bir referanstır. Özellikle, sınıf içinde bulunan bir özellik veya metot ismi, aynı isimde başka bir yerde kullanıldığında karışıklıkları önlemek için kullanılır.
 
@@ -52,12 +63,17 @@ void Increase(ref int num)
     num++;
 }
 ~~~
-### Abstraction vs Interface:
-| Abstract Class                          | Interface                                |
-| ---------------------------------------| ---------------------------------------- |
-| Constructor içerebilir.                | Constructor içeremez.                    |
-| Static üyeler içerebilir.               | Static üyeler içeremez.                   |
-| Farklı tipte erişim belirleyici içerebilir. | Erişim belirleyiciler kullanılmaz. Default olarak 'public' kabul edilir. |
-| Sınıfın ait olduğu kimliği belirtmek için kullanılır. | Sınıfın yapabileceği kabiliyetleri belirtmek için kullanılır. |
-| Bir sınıf sadece bir tane abstract sınıftan kalıtım alabilir. | Bir sınıf birden fazla interface'i kalıtım alabilir. |
-| Türetilen sınıflar sınıfın hepsini veya bir kısmını da implement edebilir. | İnterface'i tamamen implement etmek zorundadır. |
+
+### Field & Property
+~~~csharp
+public class Person 
+{
+    private string name; // field
+
+    public string Name // property
+    {
+        get { return name; }   // get method
+        set { name = value; }  // set method
+    }
+}
+~~~
