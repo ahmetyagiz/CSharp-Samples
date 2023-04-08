@@ -6,7 +6,7 @@ const | Bir değişkenin sabit olduğunu ve değiştirilemez olduğunu belirtir.
 static | Bir üyenin tüm nesneler için ortak olduğu ve belirli bir nesneye bağlanmadığı anlamına gelir.
 readonly | Bir değişkene tanımlandığı anda veya constructorda sadece bir kez değer atanabileceği anlamına gelir. Değer, sonrasında değiştirilemez.
 
-## Constant (const)
+## Constant
 Constant alanlara veya local (yerel) değişkenlere bildirim sırasında bir değer atanmalıdır ve bundan sonra değerleri değiştirilemezler. Varsayılan olarak Constant’lar static’tir, dolayısıyla Constant bir tipi static olarak tanımlayamazsınız.
 
 ~~~csharp
@@ -15,7 +15,7 @@ public const string ConnectionString = "YourConnectionString";
 
 Bir const değişkenindeki değer, “compile-time (derleme zamanı)” değeri olarak adlandırılan değerdir ve değişmezdir (program ömrü boyunca değişmez).
 
-## Readonly (Salt Okunur)
+## Readonly
 Readonly bir alan, tanımlanma sırasında veya aynı sınıfın constructor içinde başlatılabilir. Bu nedenle, readonly alanlar run-time (çalışma zamanı) sabitleri için kullanılabilir.
 
 ~~~csharp
