@@ -1,6 +1,6 @@
 ## University Managment System
 
-### Problem 
+## Problem 
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
@@ -14,7 +14,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-### Çözüm
+## Çözüm
 
 https://lucid.app/lucidchart/e1a955c8-b891-4de4-863a-814c9e01dd5e/edit?viewport_loc=-751%2C-101%2C3096%2C1317%2CHWEp-vi-RSFO&invitationId=inv_f6149831-4b0d-49b5-bcce-c9b16136458f
 
