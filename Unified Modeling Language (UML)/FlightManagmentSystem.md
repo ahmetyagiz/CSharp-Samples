@@ -14,4 +14,4 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 ## Çözüm
 https://lucid.app/lucidchart/a068781b-cfd0-4f0e-9f33-28901ebd62e9/edit?viewport_loc=-493%2C-272%2C2905%2C1437%2C0_0&invitationId=inv_f66484c7-5479-4860-854c-ff04d9ef72b7
 
-![Flight Managment System (1)](https://user-images.githubusercontent.com/78081616/232246647-63e8bcad-f02a-4ab7-8161-17b20a221af7.png)
+![Flight Managment System](https://user-images.githubusercontent.com/78081616/232247118-85fa0ca0-d56e-4c42-a189-448356b0a765.png)
