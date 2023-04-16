@@ -1,4 +1,4 @@
-## University Managment System
+## University Management System
 
 ## Problem 
 
