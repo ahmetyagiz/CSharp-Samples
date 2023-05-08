@@ -15,3 +15,4 @@ Bir kişi uygun çağrı düğmesine (yukarı veya aşağı) basarak bir asansö
 
 Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
 ## Çözüm
+![Elevator System drawio](https://user-images.githubusercontent.com/78081616/236956421-1654d8d9-8d55-4dfd-89b9-3fafec080953.png)
