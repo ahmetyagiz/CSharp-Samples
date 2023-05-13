@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.exe
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.deps.json
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.runtimeconfig.json
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.runtimeconfig.dev.json
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.dll
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\bin\Debug\net5.0\FibonacciAverage.pdb
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.AssemblyInfo.cs
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.dll
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\refint\FibonacciAverage.dll
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.pdb
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\FibonacciAverage.genruntimeconfig.cache
+C:\Users\user\source\repos\FibonacciAverage\FibonacciAverage\obj\Debug\net5.0\ref\FibonacciAverage.dll
