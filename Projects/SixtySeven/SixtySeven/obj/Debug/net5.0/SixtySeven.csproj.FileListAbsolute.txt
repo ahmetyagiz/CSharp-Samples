@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\bin\Debug\net5.0\SixtySeven.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\refint\SixtySeven.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\SixtySeven.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\SixtySeven\SixtySeven\obj\Debug\net5.0\ref\SixtySeven.dll
