@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\bin\Debug\net5.0\IntSum.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\refint\IntSum.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\IntSum.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\IntSum\IntSum\obj\Debug\net5.0\ref\IntSum.dll
