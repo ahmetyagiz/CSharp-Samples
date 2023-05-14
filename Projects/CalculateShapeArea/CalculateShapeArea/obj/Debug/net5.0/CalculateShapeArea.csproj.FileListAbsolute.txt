@@ -14,3 +14,19 @@ C:\Users\user\source\repos\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.
 C:\Users\user\source\repos\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.pdb
 C:\Users\user\source\repos\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.genruntimeconfig.cache
 C:\Users\user\source\repos\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\ref\CalculateShapeArea.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\bin\Debug\net5.0\CalculateShapeArea.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\refint\CalculateShapeArea.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\CalculateShapeArea.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateShapeArea\CalculateShapeArea\obj\Debug\net5.0\ref\CalculateShapeArea.dll

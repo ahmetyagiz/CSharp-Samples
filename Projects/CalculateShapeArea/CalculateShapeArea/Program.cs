@@ -2,76 +2,51 @@
 
 namespace CalculateShapeArea
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            MainShapeCalculationFunction();
+            MainShapeCalculation();
         }
 
-        static void MainShapeCalculationFunction()
+        static void MainShapeCalculation()
         {
-            Console.Write("Enter the shape you want to know the area of \n(Square, Rectangular, Triangle, Circle): ");
-            string selectedShape = Console.ReadLine().ToLower();
+            string selectedShape;
 
-            Console.WriteLine();
+            while (true)
+            {
+                Console.Write("Please enter the shape you want to know the area or perimeter of\n(Square, Rectangle, Triangle, Circle): ");
+                selectedShape = Console.ReadLine().ToLower();
+
+                if (selectedShape == "square" || selectedShape == "rectangle" || selectedShape == "triangle" || selectedShape == "circle")
+                {
+                    Console.WriteLine();
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("\nPlease enter a valid value.\n");
+                }
+            }
 
             switch (selectedShape)
             {
                 case "square":
-                    CalculateSquareArea();
+                    Square.Calculate();
                     break;
 
-                case "rectangular":
-                    CalculateRectangularArea();
+                case "rectangle":
+                    Rectangle.Calculate();
                     break;
 
                 case "triangle":
-                    CalculateTriangleArea();
+                    Triangle.Calculate();
                     break;
 
                 case "circle":
-                    CalculateCircleArea();
+                    Circle.Calculate();
                     break;
             }
-        }
-
-        static void CalculateSquareArea()
-        {
-            Console.Write("Enter the side length of the square: ");
-            int sideLength = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Area of the square is: " + Math.Pow(sideLength, 2));
-        }
-
-        static void CalculateRectangularArea()
-        {
-            Console.Write("Enter the short side length of the rectangular: ");
-            int shortSideLength = int.Parse(Console.ReadLine());
-
-            Console.Write("Enter the long side length of the rectangular: ");
-            int longSideLength = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Area of the rectangular is: " + shortSideLength * longSideLength);
-        }
-
-        static void CalculateTriangleArea()
-        {
-            Console.Write("Enter the base of the triangle: ");
-            int width = int.Parse(Console.ReadLine());
-
-            Console.Write("Enter the height of the triangle: ");
-            int height = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Area of the triangle is: " + (width * height) / 2);
-        }
-
-        static void CalculateCircleArea()
-        {
-            Console.Write("Enter the radius of the circle: ");
-            int radius = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Area of the circle is: " + Math.PI * Math.Pow(radius, 2));
         }
     }
 }
