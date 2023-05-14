@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.AssemblyInfo.cs
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.exe
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.deps.json
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.runtimeconfig.json
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.runtimeconfig.dev.json
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.dll
+C:\Users\user\source\repos\Circle\Circle\bin\Debug\net5.0\Circle.pdb
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.dll
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\refint\Circle.dll
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.pdb
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\Circle.genruntimeconfig.cache
+C:\Users\user\source\repos\Circle\Circle\obj\Debug\net5.0\ref\Circle.dll
