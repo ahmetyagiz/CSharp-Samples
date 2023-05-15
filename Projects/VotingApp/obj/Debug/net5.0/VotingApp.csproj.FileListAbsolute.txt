@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\bin\Debug\net5.0\VotingApp.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\refint\VotingApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\VotingApp.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\VotingApp\obj\Debug\net5.0\ref\VotingApp.dll
