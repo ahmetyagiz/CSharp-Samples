@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\refint\CharacterReplacement.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CharacterReplacement\obj\Debug\net5.0\ref\CharacterReplacement.dll

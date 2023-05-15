@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccW64+KjBE1JimOt9+BBh5l/GDoHXu2hXP7/JWlVSIWKRAYF72C8T85LfGsj6WvUkBXSMCKq5H+zudpbV0u90w==",
+  "dgSpecHash": "A+jRN17uNUTn5rF+cSzz4aBgncTA6N9NdlzLwepQaeDXv2aTNGnwaKBahPZaQRV2C1Is4vz/nCB41IaGvqmU8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ReverseString\\ReverseString.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GitHub Unity Projects\\CSharp-Samples\\Projects\\ReverseWords\\ReverseString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
