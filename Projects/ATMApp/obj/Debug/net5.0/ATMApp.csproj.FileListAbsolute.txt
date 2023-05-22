@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\bin\Debug\net5.0\ATMApp.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\refint\ATMApp.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ATMApp.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\ATMApp\obj\Debug\net5.0\ref\ATMApp.dll
