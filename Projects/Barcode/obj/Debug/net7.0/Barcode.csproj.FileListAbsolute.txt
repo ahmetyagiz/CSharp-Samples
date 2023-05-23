@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\bin\Debug\net7.0\Barcode.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\bin\Debug\net7.0\Barcode.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\bin\Debug\net7.0\Barcode.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\bin\Debug\net7.0\Barcode.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\bin\Debug\net7.0\Barcode.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\refint\Barcode.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\Barcode.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Barcode\obj\Debug\net7.0\ref\Barcode.dll
