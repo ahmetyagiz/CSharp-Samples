@@ -16,5 +16,13 @@ namespace EntityFrameworkDemo
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            using(ETradeContext context = new ETradeContext())
+            {
+                dgwProducts.DataSource = context.Products.ToList();
+            }
+        }
     }
 }

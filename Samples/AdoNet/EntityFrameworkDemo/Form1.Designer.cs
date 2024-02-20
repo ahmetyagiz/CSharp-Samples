@@ -53,7 +53,7 @@
             // 
             // btnRemove
             // 
-            this.btnRemove.Location = new System.Drawing.Point(542, 33);
+            this.btnRemove.Location = new System.Drawing.Point(31, 26);
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(96, 23);
             this.btnRemove.TabIndex = 13;
@@ -228,6 +228,7 @@
             this.Controls.Add(this.dgwProducts);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.gbxUpdate.ResumeLayout(false);
             this.gbxUpdate.PerformLayout();
             this.gbxAdd.ResumeLayout(false);

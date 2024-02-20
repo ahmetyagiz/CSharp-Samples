@@ -8,3 +8,8 @@ C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\Entity
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
