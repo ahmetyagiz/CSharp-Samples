@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquare", "CalculateSquare.csproj", "{0E1F608F-6E5A-47C1-93F3-7868140DE226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1F608F-6E5A-47C1-93F3-7868140DE226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1F608F-6E5A-47C1-93F3-7868140DE226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1F608F-6E5A-47C1-93F3-7868140DE226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1F608F-6E5A-47C1-93F3-7868140DE226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FC1B4D-3CD8-4434-974B-12C1A774071A}
+	EndGlobalSection
+EndGlobal

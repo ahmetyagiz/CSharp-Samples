@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\bin\Debug\net5.0\TriangleNewTest.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\refint\TriangleNewTest.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\TriangleNewTest.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleNewTest\obj\Debug\net5.0\ref\TriangleNewTest.dll

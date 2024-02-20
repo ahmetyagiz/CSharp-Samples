@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\bin\Debug\net5.0\GameFactory.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\refint\GameFactory.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\GameFactory.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\GameFactory\obj\Debug\net5.0\ref\GameFactory.dll

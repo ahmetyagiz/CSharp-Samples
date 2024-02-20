@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

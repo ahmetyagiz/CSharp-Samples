@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleTest\obj\Debug\net7.0\TriangleTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleTest\obj\Debug\net7.0\TriangleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleTest\obj\Debug\net7.0\TriangleTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleTest\obj\Debug\net7.0\TriangleTest.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\TriangleTest\obj\Debug\net7.0\TriangleTest.csproj.CoreCompileInputs.cache

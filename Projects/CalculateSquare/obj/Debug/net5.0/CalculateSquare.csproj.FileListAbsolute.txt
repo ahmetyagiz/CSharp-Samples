@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\bin\Debug\net5.0\CalculateSquare.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\refint\CalculateSquare.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\CalculateSquare.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\CalculateSquare\obj\Debug\net5.0\ref\CalculateSquare.dll

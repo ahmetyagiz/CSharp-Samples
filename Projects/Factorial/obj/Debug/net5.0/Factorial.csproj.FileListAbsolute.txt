@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\refint\Factorial.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\Factorial\obj\Debug\net5.0\ref\Factorial.dll

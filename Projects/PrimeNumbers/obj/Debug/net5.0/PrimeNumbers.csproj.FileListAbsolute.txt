@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.exe
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.deps.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\refint\PrimeNumbers.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Projects\PrimeNumbers\obj\Debug\net5.0\ref\PrimeNumbers.dll
