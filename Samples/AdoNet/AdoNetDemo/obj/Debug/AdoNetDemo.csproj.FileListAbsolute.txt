@@ -8,3 +8,8 @@ C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNet
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\obj\Debug\AdoNetDemo.exe
 C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GitHub Unity Projects\CSharp-Samples\Samples\AdoNet\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CopyComplete
