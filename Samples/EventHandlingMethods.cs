@@ -90,8 +90,15 @@ class EventHandlingMethod4
     public void InvokeEvent()
     {
         EventHandler MyEvent = null;
+        //Expression lambda
         MyEvent += (sender, e) => Console.WriteLine("Good Morning");
-        MyEvent += (sender, e) => Console.WriteLine("Hello World");
+
+        //Statement lambda
+        MyEvent += (sender, e) => 
+        {
+            Console.WriteLine("Hello World");
+        };
+
         MyEvent?.Invoke(null, EventArgs.Empty);
     }
 }
